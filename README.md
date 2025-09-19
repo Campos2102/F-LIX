@@ -4,7 +4,7 @@ Aula do professor PhD Bruno Zolotareff dos Santos <br> FATEC Mauá - Informátic
 <h1> Grupo <br> </h1>
 Gustavo Campos <br> 
 Felipe Amaral <br>
-Nicolas Músculos <br>
+Nicolas Lopes <br>
 
 
 
